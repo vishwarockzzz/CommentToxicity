@@ -1,0 +1,4 @@
+/.ipynb_checkpoints
+.gradio
+.venv
+jigsaw-toxic-comment-classification-challenge
